@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">News App</string>
+
+    <string name="sample_title_text">Title</string>
+    <string name="sample_section_text">Section</string>
+    <string name="sample_author_text">Author</string>
+    <string name="sample_date_text">Date</string>
+
+    <string name="no_news_to_show_text">No news to show</string>
+    <string name="no_internet_connection">Currently there are no stories for you. You can always come later and check for all new stories.</string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+    <string name="settings_section_label">Section</string>
+    <string name="settings_section_key" translatable="false">section</string>
+    <string name="settings_section_default" translatable="false">debate</string>
+    <string-array name="section_data">
+        <item>Debate</item>
+        <item>Economy</item>
+        <item>Immigration</item>
+        <item>Education</item>
+    </string-array>
+    <string-array name="section_data_values">
+        <item>debate</item>
+        <item>economy</item>
+        <item>immigration</item>
+        <item>education</item>
+    </string-array>
+
+    <string name="settings_keyword_laber">Keyword</string>
+    <string name="settings_keyword_key">keyword</string>
+    <string name="settings_keyword_default">debate</string>
+
+</resources>
